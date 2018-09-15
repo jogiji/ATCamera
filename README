@@ -2,7 +2,7 @@ This Sample Android Project is a quick and dirty demonstration the usage of Fire
 
 You need to insert your own Google-Services.json file obtained from your Firebase Console.
 
-I have used samples available on Github will post links to those sources soon.
+I have used this example https://github.com/weichen2046/CameraDemoForAndroidThings project as a base for this sample.
 
 The Goal was to have a sort of Camera Preview along with ability to show the detections over the
 preview.
@@ -16,4 +16,6 @@ I don't have time/knowledge about pull request so won't be maintaining this.
 Comments are welcome.
 
 You need to use latest preview version of Android Studio
+
+
 
