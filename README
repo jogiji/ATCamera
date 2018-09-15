@@ -1,0 +1,17 @@
+This Sample Android Project is a quick and dirty demonstration the usage of Firebase MLKIT with Android Things.
+
+You need to insert your own Google-Services.json file obtained from your Firebase Console.
+
+I have used samples available on Github will post links to those sources soon.
+
+The Goal was to have a sort of Camera Preview along with ability to show the detections over the
+preview.
+
+This just works and I have not gone deep into best practices etc.
+
+Feel free to use it in your project and modify the code.
+
+I don't have time/knowledge about pull request so won't be maintaining this.
+
+Comments are welcome.
+
